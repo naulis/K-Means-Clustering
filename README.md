@@ -1,5 +1,5 @@
 # K-Means-Clustering
-K-Means is an algorithm used in partitioning grouping which separates data into different groups based on the distance of each cluster from a predetermined point. This algorithm is able to minimize the distance between the data to its cluster. In this code we are using pandas and numpy library to process the data and for modelling, we are using TensorFlow and Scikit library.
+K-Means is an algorithm used in partitioning grouping which separates data into different groups based on the distance of each cluster from a predetermined point. This algorithm is able to minimize the distance between the data to its cluster. In this code we are using pandas and numpy library to process the data. For modelling, we are using TensorFlow and Scikit library.
 
 The dataset that we use to conduct the training is obtained from https://www.kaggle.com/c/predict-west-nile-virus.
 
